@@ -1,0 +1,27 @@
+substatus_id,substatus_name,status,
+1,signup,pre verified,Lead Qualification
+2,mobile_updated,pre verified,Lead Qualification
+3,email_updated,pre verified,Lead Qualification
+4,id_proof_updated,pre verified,Lead Qualification
+5,hostel_preference_updated,pre verified,Lead Qualification
+6,Police_verification,pre verified,Lead Qualification
+7,email_verified,Verifed,Customer Care Interaction
+8,otp_verifed,Verifed,Customer Care Interaction
+9,id_proof_approved,Verifed,Customer Care Interaction
+10,Verified_lead,Verifed,Customer Care Interaction
+11,call_pending,connected,Customer Care Interaction
+12,connected,connected,Customer Care Interaction
+13,Visit_Scheduled,Visited,Property Visits
+14,Visit_cancelled,Visited,Property Visits
+15,Visit_done,Visited,Property Visits
+16,Visit_reschduled,Visited,Property Visits
+17,Visit_missed,Visited,Property Visits
+18,Aggrement initiated,Agreement,Agreement and Onboarding
+19,Neotiation_stage,Agreement,Agreement and Onboarding
+20,Aggrement shared,Agreement,Agreement and Onboarding
+21,Aggrement_Signed,Agreement,Agreement and Onboarding
+22,Agreement edit request,Agreement,Agreement and Onboarding
+23,Payment Recvied,Agreement,Agreement and Onboarding
+24,onboarding initiated,onboarded,Agreement and Onboarding
+25,hostel_preference_alloted,onboarded,Agreement and Onboarding
+26,student_shifted,onboarded,Agreement and Onboarding
