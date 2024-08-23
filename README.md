@@ -6,33 +6,33 @@ Analyzed the sales funnel of a hostel chain across multiple cities to understand
 
 # Business Tasks
 
-Map the Sales Funnel:
+## Map the Sales Funnel:
 
 Document the entire sales funnel from lead generation to onboarding across different cities.
 
 Identify conversion rates at each stage of the funnel for different cities.
 
-Identify and Address Bottlenecks:
+## Identify and Address Bottlenecks:
 
 Investigate stages with lower conversion rates to determine potential issues.
 
 Assess specific problems at the Agreement stage and other critical points.
 
-Recommend Improvement Strategies:
+## Recommend Improvement Strategies:
 
 Develop actionable recommendations to enhance conversion rates.
 
 Propose solutions to address identified bottlenecks and improve overall funnel efficiency.
 
-#Actions Taken
+# Actions Taken
 
-Mapped the Sales Funnel:
+## Mapped the Sales Funnel:
 
 Conducted a detailed analysis of conversion rates from the Pre-stage to Onboarded across various cities.
 
 Created visual representations of funnel performance to highlight differences between cities, noting high conversion rates in Gurugram and Delhi versus lower rates in Ahmedabad and Chandigarh.
 
-Identified and Addressed Bottlenecks:
+## Identified and Addressed Bottlenecks:
 
 Complex Documentation: Simplified lengthy contracts by using plain language and clear explanations.
 
@@ -48,7 +48,7 @@ Lack of Follow-Up: Established lead tracking systems to ensure timely follow-up 
 
 Legal Compliance: Collaborated with legal experts to create standardized, region-specific agreement templates.
 
-Recommended Improvement Strategies:
+## Recommended Improvement Strategies:
 
 Enhanced communication strategies to engage leads more effectively.
 
